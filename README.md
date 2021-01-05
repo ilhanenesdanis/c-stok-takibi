@@ -1,1 +1,2 @@
-# c-stok-takibi
+# c#stok-takibi
+yarıda bıraktıgım bir proje 
