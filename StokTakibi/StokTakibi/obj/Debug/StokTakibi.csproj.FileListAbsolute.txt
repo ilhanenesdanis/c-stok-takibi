@@ -1,0 +1,16 @@
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\bin\Debug\StokTakibi.exe.config
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\bin\Debug\StokTakibi.exe
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\bin\Debug\StokTakibi.pdb
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.csprojAssemblyReference.cache
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.frmsatıs.resources
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.frmmusteriekle.resources
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.Properties.Resources.resources
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.csproj.GenerateResource.cache
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.csproj.CoreCompileInputs.cache
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.exe
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.pdb
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.frmmüşterilistele.resources
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.kategori.resources
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.Marka.resources
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.Ürünekle.resources
+C:\Users\Enesd\source\repos\StokTakibi\StokTakibi\obj\Debug\StokTakibi.frmürünlistele.resources
